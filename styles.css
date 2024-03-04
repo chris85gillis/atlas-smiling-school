@@ -1,0 +1,45 @@
+.navbar-brand {
+	margin-right: auto;
+}
+
+.learn-from-the-pros {
+    margin-top: 200px; /* Adjust this value as needed */
+}
+
+#button {
+    margin-bottom: 150px; /* Adjust this value as needed */
+}
+
+.header-container {
+    height: 100vh;
+	width: 100%;
+}
+
+@media (max-width: 768px) {
+	.navbar-nav {
+		flex-direction: column;
+		text-align: center;
+		align-items: center;
+		height: 100%;
+	}
+
+	.navbar-nav .nav-item {
+		text-align: center;
+		width: 100%;
+	}
+
+	.navbar-brand {
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	.logo-stack {
+		display: flex;
+		flex-direction: column;
+		align-items: center; /* Center horizontally */
+	}
+
+	.logo-stack img {
+		margin-bottom: 5px; /* Adjust as needed */
+	}
+}
