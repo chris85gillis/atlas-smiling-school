@@ -1,13 +1,15 @@
+/* CSS FILE */
+
 .navbar-brand {
 	margin-right: auto;
 }
 
 .learn-from-the-pros {
-    margin-top: 200px; /* Adjust this value as needed */
+    margin-top: 200px; 
 }
 
 #button {
-    margin-bottom: 150px; /* Adjust this value as needed */
+    margin-bottom: 150px; 
 }
 
 .bg-img {
@@ -42,10 +44,10 @@
 	.logo-stack {
 		display: flex;
 		flex-direction: column;
-		align-items: center; /* Center horizontally */
+		align-items: center; 
 	}
 
 	.logo-stack img {
-		margin-bottom: 5px; /* Adjust as needed */
+		margin-bottom: 5px; 
 	}
 }
